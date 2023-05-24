@@ -1,10 +1,17 @@
 # SVG Logo Generator       [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-## Description 
-Automatically generates an SVG file of a shape the user selects through inquirer with 3 letters they entered on top of it. The user can enter any hex code for a color or any keyword the node 'color-name' package contains. The file is saved to the folder you run the index from as logo.svg. 
-## Installation 
+
+## Description
+
+Automatically generates an SVG file of a shape the user selects through inquirer with 3 letters they entered on top of it. The user can enter any hex code for a color or any keyword the node 'color-name' package contains. The file is saved to the folder you run the index from as logo.svg.
+
+## Installation
+
 have node, download the repo, npm i, node index
 
+to run the jest test type npm run jest
+
 ## Acceptence Criteria
+
 WHEN I am prompted for text
 THEN I can enter up to three characters
 ✔️

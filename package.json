@@ -1,4 +1,9 @@
 {
+  "name": "svg-logo-generator",
+  "version": "0.9.5",
+  "scripts": {
+    "jest": "jest lib/shapes.test.js"
+  },
   "dependencies": {
     "color-name": "^1.1.4",
     "inquirer": "^6.5.2",
