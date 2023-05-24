@@ -10,6 +10,13 @@ have node, download the repo, npm i, node index
 
 to run the jest test type npm run jest
 
+## Demo
+[Video](https://drive.google.com/file/d/1T4DQivKQ_jfTSsjgO0yTeASt5x6Cr8Py/view?usp=sharing)
+
+![Demo image one](./examples/circle.svg)
+![Demo image two](./examples/square.svg)
+![Demo image three](./examples/triangle.svg)
+
 ## Acceptence Criteria
 
 WHEN I am prompted for text
